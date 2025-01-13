@@ -1,0 +1,4 @@
+= Docker-Podman-Wrapper
+
+Here you can find a Wrapper for using Podman the same way you would use Docker.
+This script was created to be used with the https://github.com/fabric8io/docker-maven-plugin[docker-maven-plugin].
